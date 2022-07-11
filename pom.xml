@@ -11,7 +11,7 @@
 	<groupId>com.stk</groupId>
 	<artifactId>consultas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>consultas</name>
 	<description>Resumen y consultas sistema STK</description>
 	<properties>
